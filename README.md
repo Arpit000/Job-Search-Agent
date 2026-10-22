@@ -39,7 +39,7 @@ pip install uv
 ### 2. Clone and Navigate
 
 ```bash
-git clone https://github.com/Arindam200/awesome-ai-apps/brand-reputation-monitor.git
+git clone https://github.com/Arpit000/Job-Search-Agent.git
 cd memory_agents/job_search_agent
 ```
 
@@ -163,4 +163,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-Made with ❤️ by [Studio1](https://www.Studio1hq.com) Team
+Made with ❤️ by Arpit Saxena
