@@ -1,0 +1,6 @@
+.env
+.env.*.local-backup
+.venv/
+__pycache__/
+*.py[cod]
+memori.db
