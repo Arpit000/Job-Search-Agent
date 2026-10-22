@@ -153,14 +153,4 @@ job_search_agent/
 └── memori.db           # Memori database (created automatically)
 ```
 
-## License
-
-See the main repository LICENSE file.
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
----
-
 Made with ❤️ by Arpit Saxena
